@@ -1,0 +1,54 @@
+* {
+    background-color: rgb(252, 147, 77);
+}
+#h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#div-mother {
+    margin-left: 1000px;
+}
+#h2 {
+    margin-left: 700px;
+    font-size: xx-large;
+}
+#h2:hover {
+    color: #4000ff;
+}
+#span {
+    margin-left: 600px;
+}
+#p1 {
+    font-size: large;
+}
+#div-contenaire {
+    display: flex;
+    padding:2cm;
+    justify-content: space-around;
+}
+
+#div1 {
+       height: 300px;
+       width: 300px;
+       background-color: rgb(60, 103, 223);
+}
+#div1:hover {
+    box-shadow: 20px 20px 20px gray;
+}
+#div2 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(60, 103, 223);
+}
+#div2:hover {
+    box-shadow: 20px 20px 20px gray;
+}
+#div3 {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(60, 103, 223);
+}
+#div3:hover {
+    box-shadow: 20px 20px 20px gray;
+    
+}
